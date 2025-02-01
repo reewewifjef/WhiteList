@@ -1,0 +1,5 @@
+[
+ { userid = 7947832969, username = "Ahmed1234jalal", clientid = "44EBB902-EC37-409C-A5C1-86959E36287E" },
+ { userid = 87654321, username = "AllowedPlayer2", clientid = "EXAMPLE-CLIENT-ID-2" },
+ { userid = 13579246, username = "AllowedPlayer3", clientid = "EXAMPLE-CLIENT-ID-3" }
+]
